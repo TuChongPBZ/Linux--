@@ -1,0 +1,10 @@
+I'm father. pid:3566, father pid:3415
+hello world
+I'm father. pid:3576, father pid:3415
+hello world
+I'm father. pid:3580, father pid:3415
+hello world
+I'm father. pid:3585, father pid:3415
+hello world
+I'm father. pid:5731, father pid:4692
+hello world

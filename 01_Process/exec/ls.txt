@@ -1,0 +1,66 @@
+I'm son. pid:3558, father pid:3557
+总用量 64
+drwxr-xr-x 2 root root  4096 8月  14 17:29 .
+drwxr-xr-x 5 root root  4096 8月  14 16:35 ..
+-rwxr-xr-x 1 root root 20000 8月  14 17:29 exec
+-rw-r--r-- 1 root root   786 8月  14 17:29 exec.c
+-rwxr-xr-x 1 root root 19192 8月  14 16:43 hello
+-rw-r--r-- 1 root root    75 8月  14 16:41 hello.c
+-rw-r--r-- 1 root root     0 8月  14 17:30 hello.txt
+-rw-r--r-- 1 root root    35 8月  14 17:30 ls.txt
+-rwxr--r-- 1 root root   195 8月  14 16:35 makefile
+I'm son. pid:3567, father pid:3566
+总用量 64
+drwxr-xr-x 2 root root  4096 8月  14 17:31 .
+drwxr-xr-x 5 root root  4096 8月  14 16:35 ..
+-rwxr-xr-x 1 root root 20000 8月  14 17:31 exec
+-rw-r--r-- 1 root root   778 8月  14 17:31 exec.c
+-rwxr-xr-x 1 root root 19192 8月  14 16:43 hello
+-rw-r--r-- 1 root root    75 8月  14 16:41 hello.c
+-rw-r--r-- 1 root root     0 8月  14 17:31 hello.txt
+-rw-r--r-- 1 root root   536 8月  14 17:31 ls.txt
+-rwxr--r-- 1 root root   195 8月  14 16:35 makefile
+I'm son. pid:3577, father pid:3576
+总用量 68
+drwxr-xr-x 2 root root  4096 8月  14 17:31 .
+drwxr-xr-x 5 root root  4096 8月  14 16:35 ..
+-rwxr-xr-x 1 root root 20000 8月  14 17:31 exec
+-rw-r--r-- 1 root root   770 8月  14 17:31 exec.c
+-rwxr-xr-x 1 root root 19192 8月  14 16:43 hello
+-rw-r--r-- 1 root root    75 8月  14 16:41 hello.c
+-rw-r--r-- 1 root root    50 8月  14 17:31 hello.txt
+-rw-r--r-- 1 root root  1037 8月  14 17:31 ls.txt
+-rwxr--r-- 1 root root   195 8月  14 16:35 makefile
+I'm son. pid:3581, father pid:3580
+总用量 68
+drwxr-xr-x 2 root root  4096 8月  14 17:31 .
+drwxr-xr-x 5 root root  4096 8月  14 16:35 ..
+-rwxr-xr-x 1 root root 20000 8月  14 17:31 exec
+-rw-r--r-- 1 root root   770 8月  14 17:31 exec.c
+-rwxr-xr-x 1 root root 19192 8月  14 16:43 hello
+-rw-r--r-- 1 root root    75 8月  14 16:41 hello.c
+-rw-r--r-- 1 root root   100 8月  14 17:31 hello.txt
+-rw-r--r-- 1 root root  1538 8月  14 17:31 ls.txt
+-rwxr--r-- 1 root root   195 8月  14 16:35 makefile
+I'm son. pid:3586, father pid:3585
+总用量 68
+drwxr-xr-x 2 root root  4096 8月  14 17:31 .
+drwxr-xr-x 5 root root  4096 8月  14 16:35 ..
+-rwxr-xr-x 1 root root 20000 8月  14 17:31 exec
+-rw-r--r-- 1 root root   770 8月  14 17:31 exec.c
+-rwxr-xr-x 1 root root 19192 8月  14 16:43 hello
+-rw-r--r-- 1 root root    75 8月  14 16:41 hello.c
+-rw-r--r-- 1 root root   150 8月  14 17:31 hello.txt
+-rw-r--r-- 1 root root  2039 8月  14 17:32 ls.txt
+-rwxr--r-- 1 root root   195 8月  14 16:35 makefile
+I'm son. pid:5732, father pid:5731
+总用量 68
+drwxr-xr-x 2 root root  4096 10月  3 18:48 .
+drwxr-xr-x 5 root root  4096  8月 14 16:35 ..
+-rwxr-xr-x 1 root root 18272 10月  3 18:48 exec
+-rw-r--r-- 1 root root   821 10月  3 18:48 exec.c
+-rwxr-xr-x 1 root root 19192  8月 14 16:43 hello
+-rw-r--r-- 1 root root    75  8月 14 16:41 hello.c
+-rw-r--r-- 1 root root   200  8月 14 17:32 hello.txt
+-rw-r--r-- 1 root root  2540 10月  3 18:48 ls.txt
+-rwxr--r-- 1 root root   195  8月 14 16:35 makefile
